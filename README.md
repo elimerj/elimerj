@@ -12,10 +12,12 @@
  [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](/img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/)
+[![website](./images/dark-icon-twitter.svg)](https://twitter.com/-light-mode-only)
+[![website](./images/light-icon-twitter.svg)](https://twitter.com/-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./images/dark-icon-instagram.svg)](https://instagram.com/-light-mode-only)
+[![website](./images/light-icon-instagram.svg)](https://instagram.com/-dark-mode-only)
 
