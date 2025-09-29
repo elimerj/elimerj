@@ -1,23 +1,52 @@
-# Hi there, I'm Elimer  👋 
+# 👋 Hi, I'm Elimer Duarte  
 
+💻 Full Stack Web Developer | React · Node.js · MySQL · TypeScript  
+🌱 Currently learning **AWS** to build scalable applications  
 
-## I'm a Full Stack Web Developer
+---
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to play videogames.
+## 🛠️ Tech Stack  
 
-### Connect with me:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](/img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./images/dark-icon-twitter.svg)](https://twitter.com/#gh-dark-mode-only)
-[![website](./images/light-icon-twitter.svg)](https://twitter.com/#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./images/dark-icon-instagram.svg)](https://instagram.com/#gh-dark-mode-only)
-[![website](./images/light-icon-instagram.svg)](https://instagram.com/#gh-light-mode-only)
+---
 
+## 📂 Featured Projects  
+
+🔹 [**E-commerce Web App**](#)  
+🛒 Full stack project built with **React, Node.js, and MySQL**.  
+Users can browse products, manage carts, and simulate purchases.  
+
+🔹 [**Weather API App**](#)  
+🌦️ React app consuming a **public weather API** with **Axios**.  
+
+🔹 [**Freelance Portfolio**](#)  
+🌐 Personal portfolio hosted on **Netlify**, showcasing projects and contact info.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Elimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=elimerj&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elimerj&layout=compact&theme=radical)  
+
+---
+
+## 📫 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elimerduarte/)  
+📧 **elimerduarte@outlook.com**  
+🌍 Based in **Mexico**  
+
+---
+
+✨ *Always open to new opportunities and collaborations in web development.*
