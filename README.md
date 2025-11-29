@@ -54,21 +54,20 @@ Personal portfolio showcasing my projects, skills and contact information.
 
 
 ---
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 ![Elimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=elimerj&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elimerj&layout=compact&theme=tokyonight)
- 
 
 ---
 
 ## 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elimerduarte/)  
-📧 **elimerduarte@outlook.com**  
-🌍 Based in **Mexico**  
+- 💼 LinkedIn: https://www.linkedin.com/in/elimerduarte  
+- 🌐 Portfolio: https://TU-PORTFOLIO.netlify.app  
+- 📧 Email: elimerduarte@outlook.com  
+- 📍 Based in Mexico  
 
----
+✨ Always open to new opportunities and collaborations in web development.
 
-✨ *Always open to new opportunities and collaborations in web development.*
