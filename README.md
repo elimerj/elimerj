@@ -22,15 +22,36 @@
 
 ## 📂 Featured Projects  
 
-🔹 [**E-commerce Web App**](#)  
-🛒 Full stack project built with **React, Node.js, and MySQL**.  
-Users can browse products, manage carts, and simulate purchases.  
+### 🎮 House of Games — Full-Stack Video Game E-Commerce
+Full-stack e-commerce platform with authentication, shopping cart, user management and admin panel.  
+**Tech:** Express, Node.js, MySQL, Sequelize  
+🔗 Live: https://house-of-games-7jqd.onrender.com  
+📁 Code: https://github.com/elimerj/grupo_5_ProyectoIntegradorDG  
 
-🔹 [**Weather API App**](#)  
-🌦️ React app consuming a **public weather API** with **Axios**.  
+---
 
-🔹 [**Freelance Portfolio**](#)  
-🌐 Personal portfolio hosted on **Netlify**, showcasing projects and contact info.  
+### 🛍️ Teslo Shop — Modern E-Commerce & Admin Dashboard
+Modern e-commerce platform with admin panel, product management, stock control and authentication.  
+**Tech:** React, TypeScript, MongoDB, Docker, Redis  
+🔗 Live: https://teslo-shop-react-ts.netlify.app  
+📁 Code: https://github.com/elimerj/teslo-shop-app-react  
+
+---
+
+### 🦸 Superhero Universe — Real-Time Heroes Platform
+Real-time superheroes platform with live data, search and dynamic statistics.  
+**Tech:** React, TypeScript, Context API, Docker, Redis  
+🔗 Live: https://react-app-heroes-proyect.netlify.app  
+📁 Code: https://github.com/elimerj/heroes-app-frontend  
+
+---
+
+## 🌐 Portfolio
+
+Personal portfolio showcasing my projects, skills and contact information.  
+🔗 Live: https://TU-PORTFOLIO.netlify.app  
+📁 Code: https://github.com/elimerj/portfolio
+
 
 ---
 
