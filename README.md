@@ -49,7 +49,7 @@ Real-time superheroes platform with live data, search and dynamic statistics.
 ## 🌐 Portfolio
 
 Personal portfolio showcasing my projects, skills and contact information.  
-🔗 Live: https://TU-PORTFOLIO.netlify.app  
+🔗 Live: https://elmportfolio.netlify.app/  
 📁 Code: https://github.com/elimerj/portfolio
 
 
@@ -65,7 +65,7 @@ Personal portfolio showcasing my projects, skills and contact information.
 ## 📫 Let's Connect  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/elimerduarte  
-- 🌐 Portfolio: https://TU-PORTFOLIO.netlify.app  
+- 🌐 Portfolio: https://elmportfolio.netlify.app/ 
 - 📧 Email: elimerduarte@outlook.com  
 - 📍 Based in Mexico  
 
