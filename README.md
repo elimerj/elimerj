@@ -57,8 +57,9 @@ Personal portfolio showcasing my projects, skills and contact information.
 
 ## 📊 GitHub Stats  
 
-![Elimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=elimerj&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elimerj&layout=compact&theme=radical)  
+![Elimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=elimerj&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elimerj&layout=compact&theme=tokyonight)
+ 
 
 ---
 
