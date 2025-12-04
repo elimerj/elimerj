@@ -65,7 +65,7 @@ Personal portfolio showcasing my projects, skills and contact information.
 ## 📫 Let's Connect  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/elimerduarte  
-- 🌐 Portfolio: https://elmportfolio.netlify.app/ 
+- 🌐 Portfolio: https://elimerdev.netlify.app/ 
 - 📧 Email: elimerduarte@outlook.com  
 - 📍 Based in Mexico  
 
