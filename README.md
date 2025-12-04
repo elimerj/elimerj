@@ -49,7 +49,7 @@ Real-time superheroes platform with live data, search and dynamic statistics.
 ## 🌐 Portfolio
 
 Personal portfolio showcasing my projects, skills and contact information.  
-🔗 Live: https://elmportfolio.netlify.app/  
+🔗 Live: https://elimerdev.netlify.app/  
 📁 Code: https://github.com/elimerj/portfolio
 
 
